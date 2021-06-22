@@ -49,3 +49,11 @@ for d in distance:
 
 # 시작 노드는 제외해야 하므로 count - 1을 출력
 print(count - 1, max_distance)
+
+
+# 예시 복사용
+'''
+3 2 1
+1 2 4
+1 3 2
+'''
